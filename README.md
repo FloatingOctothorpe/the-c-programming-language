@@ -1,2 +1,5 @@
-# the-c-programming-language
-Notes and sample code from "The C Programming Language"
+The C Programming Language
+==========================
+
+Notes and sample code from [The C Programming
+Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
